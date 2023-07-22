@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "1255452",
+        "name": "Robe fleurie",
+        "description": "Stylish New Arrival Floral Printed Dresses Design_Ideas for Girls",
+        "category": ["Robes", "Femmes"],
+        "imageUrl": [
+            "/assets/images/products/robe_1/1.jpeg",
+            "/assets/images/products/robe_1/2.jpeg",
+            "/assets/images/products/robe_1/3.jpeg",
+            "/assets/images/products/robe_1/4.jpeg"
+        ],
+        "sold_price": 1599,
+        "regular_price": 2599,
+        "created_at": "2022-03-14T16:51:07.815Z"
+},
+{
+        "_id": "1255453",
+        "name": "White Dress",
+        "description": "Women‘s Wrap Dress Mini Dress White 3_4 Length Sleeve Pure Color Cut Out Winter Fall Autumn High Neck Modern Slim",
+        "category": ["Robes", "Femmes"],
+        "imageUrl": [
+            "/assets/images/products/robe_2/1.jpeg",
+            "/assets/images/products/robe_2/2.jpeg",
+            "/assets/images/products/robe_2/3.jpeg",
+            "/assets/images/products/robe_2/4.jpeg"
+        ],
+        "sold_price": 1599,
+        "regular_price": 2599,
+        "created_at": "2022-03-14T16:51:07.815Z"
+},
+{
+        "_id": "1255454",
+        "name": "Red Dress for class Womens",
+        "description": "Attractive dress for attractive womens",
+        "category": ["Robes", "Femmes"],
+        "imageUrl": [
+        "/assets/images/products/robe_3/1.jpeg",
+        "/assets/images/products/robe_3/2.jpeg",
+        "/assets/images/products/robe_3/3.jpeg",
+        "/assets/images/products/robe_3/4.jpeg"
+        ],
+        "sold_price": 1599,
+        "regular_price": 2599,
+        "created_at": "2022-03-14T16:51:07.815Z"
+},
+{
+        "_id": "1255455",
+        "name": "Dress for princess",
+        "description": "dress for princess",
+        "category": ["Robes", "Femmes"],
+        "imageUrl": [
+        "/assets/images/products/robe_4/1.jpeg",
+        "/assets/images/products/robe_1/2.jpeg",
+        "/assets/images/products/robe_1/3.jpeg",
+        "/assets/images/products/robe_1/4.jpeg"
+        ],
+        "sold_price": 1599,
+        "regular_price": 2599,
+        "created_at": "2022-03-14T16:51:07.815Z"
+},
+{
+        "_id": "1255456",
+        "name": "Sea blue dress",
+        "description": "only for class womens",
+        "category": ["Robes", "Femmes"],
+        "imageUrl": [
+        "/assets/images/products/robe_5/1.jpeg",
+        "/assets/images/products/robe_1/2.jpeg",
+        "/assets/images/products/robe_1/3.jpeg",
+        "/assets/images/products/robe_1/4.jpeg"
+        ],
+        "sold_price": 1599,
+        "regular_price": 2599,
+        "created_at": "2022-03-14T16:51:07.815Z"
+},
+{
+        "_id": "1255457",
+        "name": "chic dress",
+        "description": "for daily wear",
+        "category": ["Robes", "Femmes"],
+        "imageUrl": [
+        "https://i.pinimg.com/564x/a0/37/22/a0372221f24292b1118fd37cc10ca460.jpg",
+        "/assets/images/products/robe_1/2.jpeg",
+        "/assets/images/products/robe_1/3.jpeg",
+        "/assets/images/products/robe_1/4.jpeg"
+        ],
+        "sold_price": 1599,
+        "regular_price": 2599,
+        "created_at": "2022-03-14T16:51:07.815Z"
+},
+{
+        "_id": "1255458",
+        "name": "Queen dress",
+        "description": "blue dress for womens",
+        "category": ["Robes", "Femmes"],
+        "imageUrl": [
+        "/assets/images/products/robe_7/1.jpeg",
+        "/assets/images/products/robe_1/2.jpeg",
+        "/assets/images/products/robe_1/3.jpeg",
+        "/assets/images/products/robe_1/4.jpeg"
+        ],
+        "sold_price": 1599,
+        "regular_price": 2599,
+        "created_at": "2022-03-14T16:51:07.815Z"
+},
+{
+        "_id": "1255459",
+        "name": "black dress",
+        "description": "black chic dress for womens",
+        "category": ["Robes", "Femmes"],
+        "imageUrl": [
+        "/assets/images/products/robe_8/1.jpeg",
+        "/assets/images/products/robe_1/2.jpeg",
+        "/assets/images/products/robe_1/3.jpeg",
+        "/assets/images/products/robe_1/4.jpeg"
+        ],
+        "sold_price": 1899,
+        "regular_price": 2599,
+        "created_at": "2022-03-14T16:51:07.815Z"
+}
+]
